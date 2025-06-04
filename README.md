@@ -1,6 +1,7 @@
 # Handwritten Digit Recognition on ESP32 using TensorFlow Lite
 
 This project aims to implement a neural network model for handwritten digit recognition on an ESP32 microcontroller using TensorFlow Lite (TFLite). The model trained on the MNIST dataset, was optimized and converted to TFLite format. The deployment of this model on the ESP32 enable real-time digit recognition with high accuracy and low power consumption using TinyML, demonstrating the potential of integrating machine learning with low-cost, low-power hardware for embedded applications.
+This project is completed as a requirement for the Microprocessor-Based System Design course.
 
 ## Project Overview
 
@@ -20,6 +21,6 @@ Output: 10 classes (digits 0-9)
 ```
 
 ## Results
-<<<<<<< HEAD
+
 <img src="Images/prediction_results.png" alt="results" width="400" />
 
