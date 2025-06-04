@@ -1,0 +1,3 @@
+tensorflow
+numpy
+everywhereml>=0.2.32
