@@ -20,5 +20,6 @@ Output: 10 classes (digits 0-9)
 ```
 
 ## Results
+<<<<<<< HEAD
 <img src="Images/prediction_results.png" alt="results" width="400" />
 

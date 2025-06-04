@@ -1,10 +1,5 @@
-<<<<<<<< HEAD:TinyML___Handwritten.ino
-#include "headers/model_data.h"
-#include "headers/mnist_image_array.h"
-========
 #include "../headers/model_data.h"
 #include "../headers/mnist_image_array.h"
->>>>>>>> 5af1fb7 (Initial commit):TinyML___Handwritten/TinyML___Handwritten.ino
 #include <tflm_esp32.h>
 #include <eloquent_tinyml.h>
 
